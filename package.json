@@ -1,0 +1,30 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is learning react project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotirs-dev/namaste-react-jyotir.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jyotirsolanki@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotirs-dev/namaste-react-jyotir/issues"
+  },
+  "homepage": "https://github.com/jyotirs-dev/namaste-react-jyotir#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
